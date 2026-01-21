@@ -1,0 +1,1 @@
+I for insert and :wq to save and exist, and :q is to just exit >> Esc to comeout
